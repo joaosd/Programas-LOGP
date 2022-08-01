@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CALCULAR_AREA_PERIMETRO", "CALCULAR_AREA_PERIMETRO\CALCULAR_AREA_PERIMETRO.csproj", "{5D7E53F2-6411-4FD4-8064-B465AD1FE4A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D7E53F2-6411-4FD4-8064-B465AD1FE4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7E53F2-6411-4FD4-8064-B465AD1FE4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7E53F2-6411-4FD4-8064-B465AD1FE4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7E53F2-6411-4FD4-8064-B465AD1FE4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {593B28B6-55BE-430D-88BA-D34DF32B4011}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\bin\Debug\projeto perimetro retangulo.exe.config
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\bin\Debug\projeto perimetro retangulo.exe
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\bin\Debug\projeto perimetro retangulo.pdb
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\obj\Debug\projeto perimetro retangulo.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\obj\Debug\projeto perimetro retangulo.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\obj\Debug\projeto_perimetro_retangulo.Form1.resources
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\obj\Debug\projeto_perimetro_retangulo.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\obj\Debug\projeto perimetro retangulo.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\obj\Debug\projeto perimetro retangulo.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\obj\Debug\projeto perimetro retangulo.exe
+H:\Visual Studio 2022\Projects\projeto perimetro retangulo\projeto perimetro retangulo\obj\Debug\projeto perimetro retangulo.pdb

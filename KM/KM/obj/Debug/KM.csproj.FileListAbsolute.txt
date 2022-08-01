@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\KM\KM\obj\Debug\KM.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\KM\KM\obj\Debug\KM.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\KM\KM\obj\Debug\KM.Form1.resources
+H:\Visual Studio 2022\Projects\KM\KM\obj\Debug\KM.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\KM\KM\obj\Debug\KM.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\KM\KM\obj\Debug\KM.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\KM\KM\bin\Debug\KM.exe.config
+H:\Visual Studio 2022\Projects\KM\KM\bin\Debug\KM.exe
+H:\Visual Studio 2022\Projects\KM\KM\bin\Debug\KM.pdb
+H:\Visual Studio 2022\Projects\KM\KM\obj\Debug\KM.exe
+H:\Visual Studio 2022\Projects\KM\KM\obj\Debug\KM.pdb
